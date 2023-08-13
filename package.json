@@ -1,0 +1,19 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "test_Blocnota",
+ 
+ 
+  "scripts": {
+    "test": "mocha --timeuot 10000 --require hooks.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^115.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
